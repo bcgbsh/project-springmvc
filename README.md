@@ -18,3 +18,8 @@ GitHub：更新本地文件
 4、拉取当前分支最新代码：git pull
 
 5、push到远程master分支上：git push origin master
+
+6、git remote -v  查看远程地址   git remote set-url origin 设置远程地址；
+
+7、ssh -T git@github.com 测试SSH连接（免密码）
+
