@@ -36,7 +36,7 @@ public class IndexController {
         try{
             List result = userServcice.getAll();
             System.out.println(result.size());
-            return "success";
+            return "success2";
         }catch (Exception e){
             e.printStackTrace();
         }
